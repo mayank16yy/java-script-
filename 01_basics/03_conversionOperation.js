@@ -7,7 +7,7 @@
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
-// when we are going to convert a string into number iy gives ouput Nan menas not a number 
+// when we are going to convert a string into number it gives ouput Nan means not a number 
 // ex : "33" can be convert in 33 but "33abc" can not be convert
 // true => 1 ; false=>0
 
@@ -54,7 +54,7 @@ let str3 = str1 + str2
 // console.log(+"");
 
 // when there is any type of mathematical operation like + - * before the Boolean value it gives the value 1 
-// but if put them after the boolena value it is not give the value it shows error 
+// but if put them after the boolean value it is not give the value it shows error 
 
 let valle = 100;
 ++valle
