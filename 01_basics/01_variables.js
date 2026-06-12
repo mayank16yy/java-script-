@@ -6,4 +6,4 @@ let accountState;
 
 const accountId =334456566
 console.log(accoundId);
-console.table({accountEmail,accoundId,accountState,accountCity,accountPassword});
+console.table([accountEmail,accoundId,accountState,accountCity,accountPassword]);
